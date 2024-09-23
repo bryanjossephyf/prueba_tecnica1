@@ -1,0 +1,232 @@
+[
+  {
+    "id": "1",
+    "title": "The Great Escape",
+    "author": "John Doe",
+    "price": 499.99,
+    "availability": 50,
+    "num_reviews": 120,
+    "stars": 4,
+    "description": "A thrilling adventure story of survival and determination."
+  },
+  {
+    "id": "2",
+    "title": "Journey to the Unknown",
+    "author": "Jane Smith",
+    "price": 349.99,
+    "availability": 30,
+    "num_reviews": 95,
+    "stars": 3,
+    "description": "A journey to discover the mysteries of a forgotten world."
+  },
+  {
+    "id": "3",
+    "title": "Digital Future",
+    "author": "Alice Freeman",
+    "price": 549.49,
+    "availability": 100,
+    "num_reviews": 200,
+    "stars": 5,
+    "description": "An in-depth look at the future of digital technologies."
+  },
+  {
+    "id": "4",
+    "title": "The Silent Forest",
+    "author": "Mark Johnson",
+    "price": 299.99,
+    "availability": 40,
+    "num_reviews": 180,
+    "stars": 4,
+    "description": "A suspenseful mystery set in a forest full of secrets."
+  },
+  {
+    "id": "5",
+    "title": "Shadows of the Past",
+    "author": "Emily Rose",
+    "price": 455,
+    "availability": 75,
+    "num_reviews": 300,
+    "stars": 5,
+    "description": "A historical fiction novel that unveils hidden secrets of the past."
+  },
+  {
+    "id": "6",
+    "title": "Infinite Worlds",
+    "author": "Robert Greene",
+    "price": 620.55,
+    "availability": 120,
+    "num_reviews": 80,
+    "stars": 4,
+    "description": "Exploring the infinite possibilities of parallel universes."
+  },
+  {
+    "id": "7",
+    "title": "Beyond the Horizon",
+    "author": "Sarah Lee",
+    "price": 375.75,
+    "availability": 60,
+    "num_reviews": 210,
+    "stars": 3,
+    "description": "A tale of adventure beyond the known boundaries of the world."
+  },
+  {
+    "id": "8",
+    "title": "Rise of the Machines",
+    "author": "Michael Scott",
+    "price": 480.6,
+    "availability": 90,
+    "num_reviews": 150,
+    "stars": 4,
+    "description": "The rise of artificial intelligence and its implications for humanity."
+  },
+  {
+    "id": "9",
+    "title": "Whispers in the Dark",
+    "author": "Charlotte Gray",
+    "price": 320.45,
+    "availability": 65,
+    "num_reviews": 250,
+    "stars": 5,
+    "description": "A chilling psychological thriller with unexpected twists."
+  },
+  {
+    "id": "10",
+    "title": "Ocean's Depths",
+    "author": "David Turner",
+    "price": 545.95,
+    "availability": 80,
+    "num_reviews": 170,
+    "stars": 4,
+    "description": "A deep dive into the mysteries hidden beneath the ocean waves."
+  },
+  {
+    "id": "11",
+    "title": "Galactic Empire",
+    "author": "William Brooks",
+    "price": 650.5,
+    "availability": 110,
+    "num_reviews": 400,
+    "stars": 5,
+    "description": "An epic space opera about the rise and fall of a galactic empire."
+  },
+  {
+    "id": "12",
+    "title": "Forgotten Realms",
+    "author": "Julia Wells",
+    "price": 390.35,
+    "availability": 85,
+    "num_reviews": 230,
+    "stars": 4,
+    "description": "Exploring long-lost civilizations in a fantastical world."
+  },
+  {
+    "id": "13",
+    "title": "Cybernetic Revolution",
+    "author": "Henry Nelson",
+    "price": 499.99,
+    "availability": 95,
+    "num_reviews": 190,
+    "stars": 4,
+    "description": "The future of humans and machines coexisting in a new world."
+  },
+  {
+    "id": "14",
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "price": 249.99,
+    "availability": 55,
+    "num_reviews": 850,
+    "stars": 5,
+    "description": "A classic novel of love, sacrifice, and revolution."
+  },
+  {
+    "id": "15",
+    "title": "The Last Frontier",
+    "author": "Samuel Harris",
+    "price": 675.25,
+    "availability": 45,
+    "num_reviews": 130,
+    "stars": 3,
+    "description": "A daring expedition to the last uncharted regions of the Earth."
+  },
+  {
+    "id": "16",
+    "title": "City of Secrets",
+    "author": "Eleanor Bennett",
+    "price": 525.4,
+    "availability": 70,
+    "num_reviews": 220,
+    "stars": 4,
+    "description": "An urban fantasy novel filled with hidden magic and ancient secrets."
+  },
+  {
+    "id": "17",
+    "title": "The Quantum Code",
+    "author": "Oliver Brooks",
+    "price": 480.99,
+    "availability": 25,
+    "num_reviews": 160,
+    "stars": 5,
+    "description": "A race to decode a mysterious quantum signal from space."
+  },
+  {
+    "id": "18",
+    "title": "Fires of Redemption",
+    "author": "Natalie Sanders",
+    "price": 415.2,
+    "availability": 100,
+    "num_reviews": 300,
+    "stars": 5,
+    "description": "A gripping novel of betrayal, revenge, and redemption."
+  },
+  {
+    "id": "19",
+    "title": "Echoes of the Past",
+    "author": "Timothy Clark",
+    "price": 345.15,
+    "availability": 95,
+    "num_reviews": 140,
+    "stars": 3,
+    "description": "Unraveling a family's dark past through letters and secrets."
+  },
+  {
+    "id": "20",
+    "title": "The Crimson Crown",
+    "author": "Isabella Moore",
+    "price": 575.65,
+    "availability": 75,
+    "num_reviews": 250,
+    "stars": 4,
+    "description": "A fantasy epic of kings, queens, and the fight for a lost kingdom."
+  },
+  {
+    "id": "21",
+    "title": "Libro prueba",
+    "author": "autor prueba",
+    "price": 20,
+    "availability": 100,
+    "num_reviews": 50,
+    "starts": 3,
+    "description": "Lorem"
+  },
+  {
+    "id": "22",
+    "title": "Libro prueba2",
+    "author": "bryan",
+    "price": 16,
+    "availability": 3,
+    "num_reviews": 2002,
+    "starts": 5,
+    "description": "Lorem"
+  },
+  {
+    "id": "23",
+    "title": "Crear libro",
+    "author": "Lormem Ipsus",
+    "price": 50,
+    "availability": 10,
+    "num_reviews": 5,
+    "starts": "5",
+    "description": "Prueba"
+  }
+]
